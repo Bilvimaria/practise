@@ -40,6 +40,8 @@
   			$title = get_the_title();
   			dynamic_sidebar( $title );
   			?></aside>
+
+			  
 			</header><!-- .entry-header -->
 
 			<div class="entry-content">
