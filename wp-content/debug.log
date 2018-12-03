@@ -1,0 +1,2 @@
+[03-Dec-2018 00:33:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Users/bilvimariajoseph/Desktop/soundbloginitials/wp-content/plugins/wp-timeline/inc/functions.php on line 47
+[03-Dec-2018 00:33:44 UTC] PHP Warning:  A non-numeric value encountered in /Users/bilvimariajoseph/Desktop/soundbloginitials/wp-content/plugins/wp-timeline/shortcode/timeline-hozizontal.php on line 50
